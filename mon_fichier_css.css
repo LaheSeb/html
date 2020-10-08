@@ -1,3 +1,6 @@
+table{
+  border-collapse: collapse;
+}
 .time {
   border: -1px;
   vertical-align: top;
@@ -12,7 +15,6 @@
 }
 .midi{
   height: 10px;
-  top: 10px;
 }
 
 .min5{
@@ -27,10 +29,7 @@
   background-color: aqua;
   text-align: center;
 }
-.rowspan {
-  background-color: aqua;
-  text-align: center;
-}
+
 
 .white {
   background-color: bisque;
