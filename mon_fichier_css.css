@@ -1,14 +1,16 @@
-html {
-    background-color: green;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: red;
-    padding: 10px;
-    border: 1px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
-  }
+.time {
+  border: -1px;
+  vertical-align: top;
+  position: relative;
+  top: 0px;
+  font-weight: lighter;
+  text-align: right;
+}
+
+.min5{
+   
+}
+.yellow{
+  background-color: yellow;
+  text-align: center;
+}

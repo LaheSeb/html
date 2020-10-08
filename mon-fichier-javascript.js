@@ -2,7 +2,7 @@ const list = document.createElement('ul');
 const info = document.createElement('p');
 const html = document.querySelector('html');
 
-info.textContent = "Voici une liste dynamique. Cliquez n'importe où en dehors de la liste pour ajouter un nouvel élément de liste. Cliquez sur un élément de liste existant pour changer son libellé.";
+
 
 document.body.appendChild(info);
 document.body.appendChild(list);
