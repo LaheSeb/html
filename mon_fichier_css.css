@@ -6,11 +6,37 @@
   font-weight: lighter;
   text-align: right;
 }
+.jour{
+  background-color: papayawhip;
+  text-align: center;
+}
+.midi{
+  height: 10px;
+  top: 10px;
+}
 
 .min5{
-   
+   height: -50px;
+
 }
 .yellow{
   background-color: yellow;
+  text-align: center;
+}
+.bleu {
+  background-color: aqua;
+  text-align: center;
+}
+.rowspan {
+  background-color: aqua;
+  text-align: center;
+}
+
+.white {
+  background-color: bisque;
+}
+
+.pink {
+  background-color: palevioletred;
   text-align: center;
 }
