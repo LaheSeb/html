@@ -15,12 +15,14 @@ table{
 }
 .midi{
   height: 10px;
+  background: repeating-linear-gradient(#e66465, #e66465 25px, #9198e5 2px, #9198e5 2px);
+  text-align: center;
+}
+.pit {
+  color: white;
 }
 
-.min5{
-   height: -50px;
 
-}
 .yellow{
   background-color: yellow;
   text-align: center;
@@ -33,6 +35,7 @@ table{
 
 .white {
   background-color: bisque;
+  text-align: center;
 }
 
 .pink {
