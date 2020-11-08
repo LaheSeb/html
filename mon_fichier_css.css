@@ -1,10 +1,11 @@
-
+h1{
+text-align: center;
+}
 table{
   border-collapse: collapse;
   font-family: 'TruenoRegular', sans-serif;
   background-color: bisque;
   text-align:center;
-  font-weight: 300px;
 }
 .time {
   border: 10px;
@@ -17,32 +18,30 @@ table{
 }
 .jour{
   background-color: papayawhip;
-  
-  width: 19%;
+    width: 19%;
 }
 .midi{
-  height: 25px;
-  background: repeating-linear-gradient(#e66465, #e66465 25px, #9198e5 2px, #9198e5 2px);
-  
+  height: 55px;
+
+}
+.min5 {
+  height: 55px;
 }
 
 
 .yellow{
   background-color: yellow;
-  
-}
+  }
 .bleu {
   background-color:lightsteelblue;
-  
-}
-
+  }
 
 .white {
   background-color: bisque;
- 
-}
-
+ }
 .pink {
   background-color: palevioletred;
- 
-}
+ }
+ .pit {
+   color: bisque;
+ }
