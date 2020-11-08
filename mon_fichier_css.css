@@ -1,44 +1,48 @@
+
 table{
   border-collapse: collapse;
+  font-family: 'TruenoRegular', sans-serif;
+  background-color: bisque;
+  text-align:center;
+  font-weight: 300px;
 }
 .time {
-  border: -1px;
+  border: 10px;
   vertical-align: top;
   position: relative;
-  top: 0px;
+  top: -14px;
   font-weight: lighter;
   text-align: right;
+  background-color:bisque;
 }
 .jour{
   background-color: papayawhip;
-  text-align: center;
+  
+  width: 19%;
 }
 .midi{
-  height: 10px;
+  height: 25px;
   background: repeating-linear-gradient(#e66465, #e66465 25px, #9198e5 2px, #9198e5 2px);
-  text-align: center;
-}
-.pit {
-  color: white;
+  
 }
 
 
 .yellow{
   background-color: yellow;
-  text-align: center;
+  
 }
 .bleu {
   background-color:lightsteelblue;
-  text-align: center;
+  
 }
 
 
 .white {
   background-color: bisque;
-  text-align: center;
+ 
 }
 
 .pink {
   background-color: palevioletred;
-  text-align: center;
+ 
 }
